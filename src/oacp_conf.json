@@ -1,0 +1,28 @@
+{
+    "alarms": [
+        {
+            "alarm": {
+                "hour": 11, 
+                "editable": true, 
+                "day": 3, 
+                "tag": "", 
+                "year": 2013, 
+                "month": 11, 
+                "id": "1e770e1e-447e-11e3-bb59-00241d160f27", 
+                "minute": 50
+            }
+        }, 
+        {
+            "alarm": {
+                "hour": 12, 
+                "editable": true, 
+                "days": "MTWTF--", 
+                "tag": "", 
+                "id": "24a00840-447e-11e3-bb59-00241d160f27", 
+                "minute": 0
+            }
+        }
+    ], 
+    "alarm_sound": "", 
+    "display_type": ""
+}
